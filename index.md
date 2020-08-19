@@ -16,20 +16,20 @@ If you choose to participate in this exciting competition of the best brains, yo
 ### FAQs
 Q1. I do not know higher Mathematics. Can I participate?
 
-> Yes. Absolutely **no question** in Mathemania 2020 requires any Mathematics knowledge, above high school level. Although having some exposure to higher Math might help you, but is by no means required. 
+* Yes. Absolutely **no question** in Mathemania 2020 requires any Mathematics knowledge, above high school level. Although having some exposure to higher Math might help you, but is by no means required. 
 
 Q2. I am not from IITK / not a UG student / not a student. Can I participate?
 
-> Yes! Mathemania is open to anyone and everyone interested in Mathematics, logic and puzzles. Absolutely no bounds of branch, college, city, country, age!
+* Yes! Mathemania is open to anyone and everyone interested in Mathematics, logic and puzzles. Absolutely no bounds of branch, college, city, country, age!
 
 Q3. Is this a team event or individual?
 
-> You can participate individually or in a team of 2 members or in a team of 3 members. 
+* You can participate individually or in a team of 2 members or in a team of 3 members. 
 
 Q4. Is there any registration fee?
 
-> No. Completely free!
+* No. Completely free!
 
 Q5. How to register?
 
-> Click on the link on the top-right corner of this webpage to register. 
+* Click on the link on the top-right corner of this webpage to register. 
