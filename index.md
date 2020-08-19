@@ -15,7 +15,7 @@ If you choose to participate in this exciting competition of the best brains, yo
 ### FAQ
 1. I do not know higher Mathematics. Can I participate?
 
-Absolutely yes! Absolutely **no question** in Mathemania 2020 requires any Mathematics knowledge, above high school level. If you are willing to challenge your brain with some puzzles, jump in and register. 
+Yes. Absolutely **no question** in Mathemania 2020 requires any Mathematics knowledge, above high school level. Although having some exposure to higher Math might help you, but is by no means required. 
 
 2. I am not from IITK/ not a UG student/ not a student. Can I participate?
 
