@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Welcome to Mathemania 2020!
+title: 
 permalink: /
 ---
+## Welcome to Mathemania 2020!  
 
 Mathemania 2020 is a 4-stage treasure hunt consisting of Math and Logical puzzles, loosely based on the popular comic Tintin and the Secret of the Unicorn.
 
