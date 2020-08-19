@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Tintin and the Secret of the Unicorn
+title: Welcome to Mathemania 2020!
 permalink: /
 ---
-Welcome to Mathemania 2020!
 
-Mathemania 2020 is a 4-stage treasure hunt consisting of Math and logic puzzles, loosely based on the popular comic Tintin and the Secret of the Unicorn.
+Mathemania 2020 is a 4-stage treasure hunt consisting of Math and Logical puzzles, loosely based on the popular comic Tintin and the Secret of the Unicorn.
 
 If you choose to participate in this exciting competition of the best brains, you would follow Tintin on his mathematical journey to the treasure of the Unicorn.
 
 ### Event Details
-* Date - 23 Aug 2020, Sunday
-* Time - 2pm-8pm
-* Medium- The event will be completely online. All updates and rules for the event will be posted by 12noon, 23 August on this website. Stay tuned!
+* Date - 23 August 2020, Sunday
+* Time - 2 pm - 8 pm IST
+* Medium - The event will be completely online. All updates and rules for the event will be posted by 12 noon, 23 August on this website. Stay tuned!
 
 ### FAQs
 * I do not know higher Mathematics. Can I participate?
