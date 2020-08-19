@@ -14,7 +14,7 @@ If you choose to participate in this exciting competition of the best brains, yo
 * Time - 2pm-8pm
 * Medium- The event will be completely online. All updates and rules for the event will be posted by 12noon, 23 August on this website. Stay tuned!
 
-### FAQ
+### FAQs
 * I do not know higher Mathematics. Can I participate?
 
 Yes. Absolutely **no question** in Mathemania 2020 requires any Mathematics knowledge, above high school level. Although having some exposure to higher Math might help you, but is by no means required. 
