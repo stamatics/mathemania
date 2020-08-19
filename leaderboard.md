@@ -1,5 +1,5 @@
 ---
-layout: sheet
+layout: sheets
 title: Leaderboard
 permalink: /leader
 ---
