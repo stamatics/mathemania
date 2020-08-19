@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Rules
+permalink: /rules/
 ---
 
-Some information about you!
-
-### More Information
-
+### Rules for Marking
+hello! these are the rules for marking
+### Submitting Answers
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### For any Queries
+contact us
