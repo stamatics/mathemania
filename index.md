@@ -4,7 +4,9 @@ title: Tintin and the Secret of the Unicorn
 permalink: /
 ---
 Welcome to Mathemania 2020!
+
 Mathemania 2020 is a 4-stage treasure hunt consisting of Math and logic puzzles, loosely based on the popular comic Tintin and the Secret of the Unicorn.
+
 If you choose to participate in this exciting competition of the best brains, you would follow Tintin on his mathematical journey to the treasure of the Unicorn.
 
 ### Event Details
