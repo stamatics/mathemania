@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Home
+title: Tintin and the Secret of Unicorn
 permalink: /
 ---
-
-# Tintin and the Secret of Unicorn
