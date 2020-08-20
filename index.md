@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome!  
+title: 👋 Welcome!  
 permalink: /
 ---
 
@@ -8,12 +8,12 @@ Mathemania 2020 is a 4-stage treasure hunt consisting of Math and Logical puzzle
 
 If you choose to participate in this exciting competition of the best brains, you would follow Tintin on his mathematical journey to the treasure of the Unicorn.
 
-### Event Details
+### 🎟️ Event Details
 * Date - 23 August 2020, Sunday
 * Time - 2 pm - 8 pm IST
 * Medium - The event will be completely online. All updates and rules for the event will be posted by 12 noon, 23 August on this website. Stay tuned!
 
-### FAQs
+### ❓ FAQs
 Q1. I do not know higher Mathematics. Can I participate?
 
 * Yes. Absolutely **no question** in Mathemania 2020 requires any Mathematics knowledge, above high school level. Although having some exposure to higher Math might help you, but is by no means required. 
