@@ -10,7 +10,7 @@ If you choose to participate in this exciting competition of the best brains, yo
 
 ## 🔗 Links
 * [Overall Structure - Rules, Marking Scheme, Logistics](https://docs.google.com/document/d/1NDIaPfJqv86FBZG04UYVMcex58DLsj8A1CUN-yEiQHk/edit?usp=sharing)
-* [Leaderboard](https://www.google.com/)
+* [Leaderboard and Submission Status](https://www.google.com/)
 * [Questions for Level 1 - Tintin Buys the Unicorn](https://www.google.com/)
 
 
