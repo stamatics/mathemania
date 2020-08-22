@@ -9,10 +9,10 @@ permalink: /
 If you choose to participate in this exciting competition of the best brains, you would follow Tintin on his mathematical journey to the treasure of the Unicorn.
 
 ## 🔗 Links
-* [Overall Structure - Rules, Marking Scheme, Logistics](https://docs.google.com/document/d/1NDIaPfJqv86FBZG04UYVMcex58DLsj8A1CUN-yEiQHk/edit?usp=sharing)
 * <a href="https://docs.google.com/document/d/1NDIaPfJqv86FBZG04UYVMcex58DLsj8A1CUN-yEiQHk/edit?usp=sharing" target="_blank">Overall Structure - Rules, Marking Scheme, Logistics</a>
-* [Leaderboard and Submission Status](https://www.google.com/)
-* [Questions for Level 1 - Tintin Buys the Unicorn](https://www.google.com/)
+* <a href="https://docs.google.com/document/d/1NDIaPfJqv86FBZG04UYVMcex58DLsj8A1CUN-yEiQHk/edit?usp=sharing" target="_blank">Leaderboard and Submission Status</a>
+* <a href="https://docs.google.com/document/d/1NDIaPfJqv86FBZG04UYVMcex58DLsj8A1CUN-yEiQHk/edit?usp=sharing" target="_blank">Questions for Level 1 - Tintin Buys the Unicorn</a>
+
 
 
 ## 🎟️ Event Details
