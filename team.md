@@ -4,13 +4,13 @@ title: Meet the Statmatics Team
 permalink: /team
 ---
 
-Coordinators
+### Coordinators
 * [Bhuvan Singla](https://www.facebook.com/singlabhuvan/)
 * [Devyanshi Singh](https://www.facebook.com/devyanshi.singh.940)
 * [Divyanshu Bhardwaj](https://www.facebook.com/d1vyaanshu)
 * [Nitin Garg](https://www.facebook.com/nitin.garg10000/)
 
-Executives
+### Executives
 * [Aaryen Mehta](https://www.facebook.com/aaryen.mehta/)
 * [Aayush Priyadarshi](https://www.facebook.com/aayush.priyadarshi.180)
 * [Abhimanyu Sethia](https://www.facebook.com/abhimanyusethia12)
