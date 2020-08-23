@@ -3,6 +3,10 @@ layout: page
 title: 👋 Welcome!  
 permalink: /
 ---
+## UPDATE 2
+* Due to the chaos created in the beginning, we are extending the time for submission to 2015 hours. 
+* The current leaderboard is still lagging behind by about 600-700 submissions. Hence, please wait patiently for us to process all the submissions and then anounce the results.
+
 ## UPDATE
 Due to an enormously large number of submissions and extremely high traffic on the sheet, the leaderboard is lagging behind and therefore, some people who have qualified levels are not getting the link to the next level. So we are uploading all the problem sets here, you may keep on submitting keeping the rules in mind. We will evaluate the submissions even after the submission deadline. Since we have the timestamp of your submission, if anyone submits questions of the level which they have not qualified, then we will not award points for the same. 
 
