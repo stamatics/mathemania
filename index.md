@@ -10,7 +10,6 @@ If you choose to participate in this exciting competition of the best brains, yo
 
 ## 🔗 Links
 * <a href="https://docs.google.com/document/d/1NDIaPfJqv86FBZG04UYVMcex58DLsj8A1CUN-yEiQHk/edit?usp=sharing" target="_blank">Instructions - Rules, Marking Scheme, Logistics</a>
-* Registrations are closed now!
 
 
 ## 🎟️ Event Details
