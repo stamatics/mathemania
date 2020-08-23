@@ -1,4 +1,8 @@
-#Meet the Statmatics Team
+---
+layout: page
+title: Meet the Statmatics Team
+permalink: /team
+---
 
 Coordinators
 * Bhuvan Singla
