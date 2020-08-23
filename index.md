@@ -3,6 +3,14 @@ layout: page
 title: 👋 Welcome!  
 permalink: /
 ---
+## UPDATE
+Due to an enormously large number of submissions and extremely high traffic on the sheet, the leaderboard is lagging behind and therefore, some people who have qualified levels are not getting the link to the next email. So we are uploading all the problem sets here, you may keep on submitting keeping the rules in mind. We will evaluate the submissions even after the submission deadline. Since we have the timestamp of your submission, if anyone submits questions of the level which they have not qualified, then we will not award points for the same. 
+
+* <a href="https://drive.google.com/file/d/1EGyxtgSY-fi0SwG3sUnynpbQGNdlj10r/view" target="_blank">Questions: Level 1</a>
+* <a href="https://drive.google.com/file/d/1Nvji6ayCe6FkI3usc1F8PAshf9LDxiFy/view?usp=sharing" target="_blank">Questions: Level 2</a>
+* <a href="https://drive.google.com/file/d/1xPQoa4361wzyaNnjrFVvC4DY4tZ_MpQC/view" target="_blank">Questions: Level 3</a>
+* <a href="https://drive.google.com/file/d/1PTaqr3tMu6YnH-uSris2oXXpLAtPkltm/view?usp=sharing" target="_blank">Questions: Level 4</a>
+* <a href="https://drive.google.com/file/d/1VsK5cfHauAltlTZSeB03cZnmqsNkPhfM/view?usp=sharing" target="_blank">Wild Card</a>
 
 **Mathemania 2020** is a 4-stage treasure hunt consisting of Math and Logical puzzles, loosely based on the popular comic *Tintin and the Secret of the Unicorn*.
 
