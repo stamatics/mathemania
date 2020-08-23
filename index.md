@@ -3,6 +3,10 @@ layout: page
 title: 👋 Welcome!  
 permalink: /
 ---
+## Update 3 
+* Submission for Mathemania 2020 is now closed. However, the leaderboard is still being we are still processing your submissions and the leaderboard. 
+* Please fill this anonymous feedback form so that we can improve in our future editions- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqOwC2ZbgI1tfTYakIcIHtL77MilcQO7gRkkBOVBeGZVSzxQ/viewform?usp=sf_link" target="_blank"> Feedback Form </a>
+
 ## UPDATE 2
 * Due to the chaos created in the beginning, we are extending the time for submission to 2015 hours. 
 * The current leaderboard is still lagging behind by about 600-700 submissions. Hence, please wait patiently for us to process all the submissions and then anounce the results.
