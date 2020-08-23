@@ -5,10 +5,10 @@ permalink: /team
 ---
 
 Coordinators
-* Bhuvan Singla
-* Devyanshi Singh
-* Divyanshu Bhardwaj
-* Nitin Garg
+* [Bhuvan Singla](https://www.facebook.com/singlabhuvan/)
+* [Devyanshi Singh](https://www.facebook.com/devyanshi.singh.940)
+* [Divyanshu Bhardwaj](https://www.facebook.com/d1vyaanshu)
+* [Nitin Garg](https://www.facebook.com/nitin.garg10000/)
 
 Executives
 * Aaryen Mehta
