@@ -10,6 +10,10 @@ If you choose to participate in this exciting competition of the best brains, yo
 
 ## 🔗 Links
 * <a href="https://docs.google.com/document/d/1NDIaPfJqv86FBZG04UYVMcex58DLsj8A1CUN-yEiQHk/edit?usp=sharing" target="_blank">Instructions - Rules, Marking Scheme, Logistics</a>
+* <a href="https://docs.google.com/spreadsheets/d/1yAGasmjiJWSSFvVSA2BsmSDjP01HLD9zikhX7TSoepw/edit" target="_blank">Scoreboard and Submission Status</a>
+* <a href="https://drive.google.com/file/d/1EGyxtgSY-fi0SwG3sUnynpbQGNdlj10r/view" target="_blank">Questions: Level 1</a>
+* <a href="https://drive.google.com/file/d/1VsK5cfHauAltlTZSeB03cZnmqsNkPhfM/view" target="_blank">Wild Card Questions</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdS5Js6A9p7Y-QEvlmSB-nju-BPlcMXqOQNlbL6DGmxlyYAYA/viewform" target="_blank">Submission Form</a>
 
 
 ## 🎟️ Event Details
