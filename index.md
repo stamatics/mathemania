@@ -14,7 +14,7 @@ If you choose to participate in this exciting competition of the best brains, yo
 * <a href="https://drive.google.com/file/d/1EGyxtgSY-fi0SwG3sUnynpbQGNdlj10r/view" target="_blank">Questions: Level 1</a>
 * <a href="https://drive.google.com/file/d/1VsK5cfHauAltlTZSeB03cZnmqsNkPhfM/view" target="_blank">Wild Card Questions</a>
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdS5Js6A9p7Y-QEvlmSB-nju-BPlcMXqOQNlbL6DGmxlyYAYA/viewform" target="_blank">Submission Form</a>
-
+* <a href="https://drive.google.com/file/d/1Nvji6ayCe6FkI3usc1F8PAshf9LDxiFy/view?usp=sharing" target="_blank">Questions: Level 2</a> Level 2 has been made public because of the lag in leaderboard updation. However, if you have not qualified, we'll not accept the solution to any level 2 question.
 
 ## 🎟️ Event Details
 * 📅 Date: 23 August 2020, Sunday
