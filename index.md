@@ -15,17 +15,11 @@ Mathemania 2020 has now concluded. Here are the relevant links
 * [Level 4- Journey to the Treasure](data/Level4_Journey_to_Treasure.pdf)
 * [Wild Card](data/Wildcard.pdf)
 * [Answers and Solutions](data/Solutions_Tintin_and_the_Secret_of_the_Unicorn.pdf)
-
+* <a href="https://docs.google.com/document/d/1NDIaPfJqv86FBZG04UYVMcex58DLsj8A1CUN-yEiQHk/edit?usp=sharing" target="_blank">Instructions - Rules, Marking Scheme, Logistics</a>
 
 **Mathemania 2020** is a 4-stage treasure hunt consisting of Math and Logical puzzles, loosely based on the popular comic *Tintin and the Secret of the Unicorn*.
 
 If you choose to participate in this exciting competition of the best brains, you would follow Tintin on his mathematical journey to the treasure of the Unicorn.
-
-* <a href="https://docs.google.com/document/d/1NDIaPfJqv86FBZG04UYVMcex58DLsj8A1CUN-yEiQHk/edit?usp=sharing" target="_blank">Instructions - Rules, Marking Scheme, Logistics</a>
-* [Questions](Level1_Tintin_Buys_the_Unicorn.pdf)
-* <a href="https://drive.google.com/file/d/1VsK5cfHauAltlTZSeB03cZnmqsNkPhfM/view" target="_blank">Wild Card Questions</a>
-* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdS5Js6A9p7Y-QEvlmSB-nju-BPlcMXqOQNlbL6DGmxlyYAYA/viewform" target="_blank">Submission Form</a>
-* <a href="https://drive.google.com/file/d/1Nvji6ayCe6FkI3usc1F8PAshf9LDxiFy/view?usp=sharing" target="_blank">Questions: Level 2</a> Level 2 has been made public because of the lag in leaderboard updation. However, if you have not qualified, we'll not accept the solution to any level 2 question.
 
 ## 🎟️ Event Details
 * 📅 Date: 23 August 2020, Sunday
