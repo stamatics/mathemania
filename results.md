@@ -18,6 +18,8 @@ Here is a list of the teams who successfully completed the treasure hunt (reache
 7. भारतीय सांख्यिकीय संस्थान- Suhas Gondi
 8. tourists- Jayesh Shaw, Utkarsh Gupta, Lavish Gupta
 
-The link to the final leaderboard is here- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqOwC2ZbgI1tfTYakIcIHtL77MilcQO7gRkkBOVBeGZVSzxQ/viewform?usp=sf_link" target="_blank"> Leaderboard</a>
+The link to the final leaderboard is here- <a href="https://docs.google.com/spreadsheets/d/1yAGasmjiJWSSFvVSA2BsmSDjP01HLD9zikhX7TSoepw/edit?usp=sharing" target="_blank"> Leaderboard</a>
+
+Please fill this Feedback form if you participated- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqOwC2ZbgI1tfTYakIcIHtL77MilcQO7gRkkBOVBeGZVSzxQ/viewform?usp=sf_link" target="_blank"> Leaderboard</a>
 
 Looking forward to meet you all in the next edition of Mathemania!
