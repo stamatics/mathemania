@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet the Statmatics Team
+title: Meet the Stamatics Team
 permalink: /team
 ---
 
