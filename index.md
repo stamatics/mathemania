@@ -3,28 +3,24 @@ layout: page
 title: 👋 Welcome!  
 permalink: /
 ---
-## Update 3 
-* Submission for Mathemania 2020 is now closed. However, the leaderboard is still being processed and hence, has been removed temporarily. 
-* Please fill this anonymous feedback form so that we can improve in our future editions- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqOwC2ZbgI1tfTYakIcIHtL77MilcQO7gRkkBOVBeGZVSzxQ/viewform?usp=sf_link" target="_blank"> Feedback Form </a>
+Mathemania 2020 has now concluded. Here are the relevant links
 
-## UPDATE 2
-* Due to the chaos created in the beginning, we are extending the time for submission to 2015 hours. 
-* The current leaderboard is still lagging behind by about 600-700 submissions. Hence, please wait patiently for us to process all the submissions and then anounce the results.
+## 🔗 Links
+ 
+* If you participated, please fill this anonymous feedback form so that we can improve in our future editions- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqOwC2ZbgI1tfTYakIcIHtL77MilcQO7gRkkBOVBeGZVSzxQ/viewform?usp=sf_link" target="_blank"> Feedback Form </a>
+* The leaderboard for the event is available here- <a href="https://docs.google.com/spreadsheets/d/1yAGasmjiJWSSFvVSA2BsmSDjP01HLD9zikhX7TSoepw/edit?usp=sharing" target="_blank"> Leaderboard</a>
+* [Level 1- Tintin Buys the Unicorn](data/Level1_Tintin_Buys_the_Unicorn.pdf)
+* [Level 2- Barnaby's Assassination](data/Level2_Barnabys_Assassination.pdf)
+* [Level 3- The Secret of the Unicorn](data/Level3_Secret_of_Unicorn.pdf)
+* [Level 4- Journey to the Treasure](data/Level4_Journey_to_Treasure.pdf)
+* [Wild Card](data/Wildcard.pdf)
+* [Answers and Solutions](data/Solutions_Mathemania 2020_Final.pdf)
 
-## UPDATE
-Due to an enormously large number of submissions and extremely high traffic on the sheet, the leaderboard is lagging behind and therefore, some people who have qualified levels are not getting the link to the next level. So we are uploading all the problem sets here, you may keep on submitting keeping the rules in mind. We will evaluate the submissions even after the submission deadline. Since we have the timestamp of your submission, if anyone submits questions of the level which they have not qualified, then we will not award points for the same. 
-
-* <a href="https://drive.google.com/file/d/1EGyxtgSY-fi0SwG3sUnynpbQGNdlj10r/view" target="_blank">Questions: Level 1</a>
-* <a href="https://drive.google.com/file/d/1Nvji6ayCe6FkI3usc1F8PAshf9LDxiFy/view?usp=sharing" target="_blank">Questions: Level 2</a>
-* <a href="https://drive.google.com/file/d/1xPQoa4361wzyaNnjrFVvC4DY4tZ_MpQC/view" target="_blank">Questions: Level 3</a>
-* <a href="https://drive.google.com/file/d/1PTaqr3tMu6YnH-uSris2oXXpLAtPkltm/view?usp=sharing" target="_blank">Questions: Level 4</a>
-* <a href="https://drive.google.com/file/d/1VsK5cfHauAltlTZSeB03cZnmqsNkPhfM/view?usp=sharing" target="_blank">Wild Card</a>
 
 **Mathemania 2020** is a 4-stage treasure hunt consisting of Math and Logical puzzles, loosely based on the popular comic *Tintin and the Secret of the Unicorn*.
 
 If you choose to participate in this exciting competition of the best brains, you would follow Tintin on his mathematical journey to the treasure of the Unicorn.
 
-## 🔗 Links
 * <a href="https://docs.google.com/document/d/1NDIaPfJqv86FBZG04UYVMcex58DLsj8A1CUN-yEiQHk/edit?usp=sharing" target="_blank">Instructions - Rules, Marking Scheme, Logistics</a>
 * [Questions](Level1_Tintin_Buys_the_Unicorn.pdf)
 * <a href="https://drive.google.com/file/d/1VsK5cfHauAltlTZSeB03cZnmqsNkPhfM/view" target="_blank">Wild Card Questions</a>
