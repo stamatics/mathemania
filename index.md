@@ -14,7 +14,7 @@ Mathemania 2020 has now concluded. Here are the relevant links
 * [Level 3- The Secret of the Unicorn](data/Level3_Secret_of_Unicorn.pdf)
 * [Level 4- Journey to the Treasure](data/Level4_Journey_to_Treasure.pdf)
 * [Wild Card](data/Wildcard.pdf)
-<!--* [Answers and Solutions](data/Solutions_Mathemania 2020_Final.pdf)--!>
+* [Answers and Solutions](data/Solutions_Tintin_and_the_Secret_of_the_Unicorn.pdf)
 
 
 **Mathemania 2020** is a 4-stage treasure hunt consisting of Math and Logical puzzles, loosely based on the popular comic *Tintin and the Secret of the Unicorn*.
